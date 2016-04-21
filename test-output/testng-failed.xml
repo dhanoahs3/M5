@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [ABC]">
+  <test name="Fifth Class">
+    <classes>
+      <class name="package2.Test10"/>
+    </classes>
+  </test> <!-- Fifth Class -->
+  <test name="Fourth Class">
+    <classes>
+      <class name="package1.Test10"/>
+    </classes>
+  </test> <!-- Fourth Class -->
+  <test name="First Class">
+    <classes>
+      <class name="package1.Test2"/>
+    </classes>
+  </test> <!-- First Class -->
+  <test name="Second Class Class">
+    <classes>
+      <class name="package1.Test3"/>
+    </classes>
+  </test> <!-- Second Class Class -->
+  <test name="Third Class">
+    <classes>
+      <class name="package1.Test4"/>
+    </classes>
+  </test> <!-- Third Class -->
+</suite> <!-- Failed suite [ABC] -->

@@ -1,0 +1,39 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="ABC">
+
+<test name="Fifth Class">
+    <classes>
+        <class name="package2.Test10" ></class>  
+    </classes>
+</test>
+
+<test name="Fourth Class">
+    <classes>
+        <class name="package1.Test10" ></class>  
+    </classes>
+</test>
+<test name="First Class">
+    <classes>
+        <class name="package1.Test2" ></class>  
+    </classes>
+</test>
+<test name="Second Class Class">
+    <classes>
+        <class name="package1.Test3" ></class>  
+    </classes>
+</test>
+
+
+<test name="Third Class">
+    <classes>
+        <class name="package1.Test4" ></class>  
+    </classes>
+</test>
+
+
+
+
+
+</suite>
