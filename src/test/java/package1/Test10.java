@@ -12,7 +12,7 @@ public class Test10 {
 	    {
 		System.setProperty("webdriver.chrome.driver","C:\\chromedriver.exe");
 		 WebDriver driver =  new ChromeDriver();
-				
+		driver.get("https://www.fb.com");		
 	    	System.out.println("**********This is test10***************");
 
 	    }
